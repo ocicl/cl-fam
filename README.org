@@ -1,0 +1,10 @@
+* cl-fam
+
+FAM (File Access Monitor) API wrapper for Common Lisp, works with both fam and gamin
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/7max/cl-fam.git   |
+| commit  | 917812e  |
+| systems | cl-fam |
+|---------+-------------------------------------------|
+
